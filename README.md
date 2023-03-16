@@ -17,5 +17,5 @@
 2. having fun! 😊
 
 
-Here is my inspiration for my meme [demo website!]([https://annafergusson.github.io/stats220_demo/](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2iVbBTYVR6VnPJATQo73-7ywowU1pw7SyjpEgNM5&s))
+Here is my inspiration for my [meme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2iVbBTYVR6VnPJATQo73-7ywowU1pw7SyjpEgNM5&s)
 
